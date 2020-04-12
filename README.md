@@ -1,1 +1,1 @@
-This is the final code for a step by step guide article I wrote on building a server-less email sending application using AWS Lambda functions with Netlify. You can find the article at https://medium.com/@abdamin/manage-environment-variables-in-your-nodejs-application-with-dotenv-520914a9254b
+This is the final code for a step by step guide article I wrote on managing environment variables in your NodeJS Application using dotenv. You can find the article at https://medium.com/@abdamin/manage-environment-variables-in-your-nodejs-application-with-dotenv-520914a9254b
