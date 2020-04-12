@@ -1,0 +1,23 @@
+{
+  "name": "dotenv-node-tutorial",
+  "version": "1.0.0",
+  "description": "A step by step guide to set up environment variables in your NodeJS Application using dotenv",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdamin/dotenv-node-tutorial.git"
+  },
+  "author": "Abdullah Amin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdamin/dotenv-node-tutorial/issues"
+  },
+  "homepage": "https://github.com/abdamin/dotenv-node-tutorial#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
